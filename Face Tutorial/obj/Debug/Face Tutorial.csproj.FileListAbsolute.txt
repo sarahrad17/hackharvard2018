@@ -1,0 +1,23 @@
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Face Tutorial.exe.config
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Face Tutorial.exe
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Face Tutorial.pdb
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Newtonsoft.Json.dll
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Debug\Newtonsoft.Json.xml
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.csprojAssemblyReference.cache
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\MainWindow.baml
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\MainWindow.g.cs
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\App.g.cs
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial_MarkupCompile.cache
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.g.resources
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face_Tutorial.Properties.Resources.resources
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.csproj.GenerateResource.cache
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.csproj.CoreCompileInputs.cache
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.csproj.CopyComplete
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.exe
+c:\users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial.pdb
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\Face Tutorial_MarkupCompile.lref
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Debug\App.baml

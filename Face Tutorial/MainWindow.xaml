@@ -1,0 +1,123 @@
+﻿<Window x:Class="FaceTutorial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="900" Width="1360" Background="WhiteSmoke">
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition></ColumnDefinition>
+
+            <ColumnDefinition></ColumnDefinition>
+
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition></RowDefinition>
+
+            <RowDefinition></RowDefinition>
+
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Image x:Name="FacePhoto" Stretch="Uniform" MouseMove="FacePhoto_MouseMove" Grid.Column="1" Grid.Row="1" />
+        <StatusBar Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Background="WhiteSmoke">
+            <StatusBarItem>
+                <TextBlock Name="faceDescriptionStatusBar" 
+          Grid.Row="0"
+          Grid.Column="1"
+          VerticalAlignment="Center"
+          HorizontalAlignment="Center" 
+          Text=""
+          FontSize="25"
+          FontWeight="ExtraBold"
+          FontFamily="Andalus"
+          Foreground="Purple">
+                    <TextBlock.Effect>
+                        <DropShadowEffect
+            ShadowDepth="4"
+            Direction="330"
+            Color="DarkGray"
+            
+            Opacity="0.5"
+            BlurRadius="4"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+             
+            </StatusBarItem>
+        </StatusBar>
+        <StackPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Bottom">
+            <TextBlock Name="yeetus" Grid.Row="0" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontStyle="Italic" FontWeight="Bold"  FontFamily="Andalus" Foreground="Black" FontSize="15" />
+            <TextBlock Name="yeetus2" Grid.Row="0" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontStyle="Italic" FontWeight="Bold" FontFamily="Andalus" Foreground="Black" FontSize="15" />
+        </StackPanel>
+        <Button x:Name="Button1"
+                Content="How are you feeling?"
+                Click="Feeling_Click"
+                Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="Button2"
+                Content="What do you most use your phone for?"
+                Click="Phone_Click"
+                Grid.Row="1" Grid.Column="0"  VerticalAlignment="Top" HorizontalAlignment="Center" >
+        </Button>
+        <Button x:Name="Button3"
+                Content="Would you have died on the Titanic?"
+                Click="Titanic_Click"
+                Grid.Row="1" Grid.Column="0" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="Button4"
+                Content="Do you look old enough to get into a bar?"
+                Click="Sloshed_Click"
+                Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="Button5"
+                Content="What programming language are you?"
+                Click="Prog_Click"
+                Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="Button6"
+                Content="What's your spirit cheese?"
+                Click="Cheese_Click"
+                Grid.Row="1" Grid.Column="2" VerticalAlignment="Top" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="Button7"
+                Content="What green vegetable are you?"
+                Click=" Veg_Click"
+                Grid.Row="1" Grid.Column="2" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="Button8"
+                Content="Reccomend me a Book!"
+                Click="Book_Click"
+                Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+        </Button>
+        <Button x:Name="BrowseButton"
+               Content="Click Here To Upload Image"
+               Click="BrowseButton_Click"
+               Width="320"
+               Height="150"
+               Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+        </Button>
+        <TextBlock
+          Grid.Row="0"
+          Grid.Column="1"
+          VerticalAlignment="Center"
+          HorizontalAlignment="Center" 
+          Text="Face Feed"
+          FontSize="75"
+          FontWeight="ExtraBold"
+          FontFamily="Andalus"
+          Foreground="Pink">
+            <TextBlock.Effect>
+                <DropShadowEffect
+            ShadowDepth="4"
+            Direction="330"
+            Color="DarkGray"
+            
+            Opacity="0.5"
+            BlurRadius="4"/>
+            </TextBlock.Effect>
+        </TextBlock>
+    </Grid>
+</Window>

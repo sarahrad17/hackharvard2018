@@ -1,0 +1,23 @@
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Face Tutorial.exe.config
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Face Tutorial.exe
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Face Tutorial.pdb
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Newtonsoft.Json.dll
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\bin\Release\Newtonsoft.Json.xml
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\MainWindow.baml
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\MainWindow.g.cs
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\App.g.cs
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial_MarkupCompile.cache
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial_MarkupCompile.lref
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\App.baml
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.g.resources
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face_Tutorial.Properties.Resources.resources
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.csproj.GenerateResource.cache
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.csproj.CopyComplete
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.exe
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.pdb
+C:\Users\sarah\source\repos\Face Tutorial\Face Tutorial\obj\Release\Face Tutorial.csprojAssemblyReference.cache
